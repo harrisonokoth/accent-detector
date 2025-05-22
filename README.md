@@ -16,6 +16,10 @@ This project is a practical tool built for REM Waste as part of a technical inte
 - 📊 Provides a confidence score (0–100%)
 - ✏️ Includes a brief summary of the classification
 
+Screenshot:
+
+![alt text](image.png)
+
 ## 💡 Use Case
 
 The tool is designed to assist hiring managers in evaluating the clarity and regional accent of English-speaking candidates in video submissions. It can serve as an internal screening aid.
